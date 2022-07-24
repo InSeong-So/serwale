@@ -25,4 +25,6 @@ cd hello_cargo
 cargo build
 # 또는 ./target/debug/hello_cargo
 cargo run
+# 컴파일 여부 확인
+cargo check
 ```
